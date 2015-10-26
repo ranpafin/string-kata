@@ -1,0 +1,18 @@
+{
+  "name": "ranpafin/kata-string",
+  "license": "MIT",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "KATA\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.3.9",
+    "phpunit/phpunit": "~4"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "prefer-stable": true
+}
